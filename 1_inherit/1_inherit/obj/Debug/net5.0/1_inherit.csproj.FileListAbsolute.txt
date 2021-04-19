@@ -1,0 +1,16 @@
+D:\GitManager\CsharpBasic\1_inherit\1_inherit\bin\Debug\net5.0\1_inherit.exe
+D:\GitManager\CsharpBasic\1_inherit\1_inherit\bin\Debug\net5.0\1_inherit.deps.json
+D:\GitManager\CsharpBasic\1_inherit\1_inherit\bin\Debug\net5.0\1_inherit.runtimeconfig.json
+D:\GitManager\CsharpBasic\1_inherit\1_inherit\bin\Debug\net5.0\1_inherit.runtimeconfig.dev.json
+D:\GitManager\CsharpBasic\1_inherit\1_inherit\bin\Debug\net5.0\1_inherit.dll
+D:\GitManager\CsharpBasic\1_inherit\1_inherit\bin\Debug\net5.0\ref\1_inherit.dll
+D:\GitManager\CsharpBasic\1_inherit\1_inherit\bin\Debug\net5.0\1_inherit.pdb
+D:\GitManager\CsharpBasic\1_inherit\1_inherit\obj\Debug\net5.0\1_inherit.csprojAssemblyReference.cache
+D:\GitManager\CsharpBasic\1_inherit\1_inherit\obj\Debug\net5.0\1_inherit.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitManager\CsharpBasic\1_inherit\1_inherit\obj\Debug\net5.0\1_inherit.AssemblyInfoInputs.cache
+D:\GitManager\CsharpBasic\1_inherit\1_inherit\obj\Debug\net5.0\1_inherit.AssemblyInfo.cs
+D:\GitManager\CsharpBasic\1_inherit\1_inherit\obj\Debug\net5.0\1_inherit.csproj.CoreCompileInputs.cache
+D:\GitManager\CsharpBasic\1_inherit\1_inherit\obj\Debug\net5.0\1_inherit.dll
+D:\GitManager\CsharpBasic\1_inherit\1_inherit\obj\Debug\net5.0\ref\1_inherit.dll
+D:\GitManager\CsharpBasic\1_inherit\1_inherit\obj\Debug\net5.0\1_inherit.pdb
+D:\GitManager\CsharpBasic\1_inherit\1_inherit\obj\Debug\net5.0\1_inherit.genruntimeconfig.cache

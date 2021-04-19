@@ -6,6 +6,8 @@ namespace _1_inherit
     {
         static void Main(string[] args)
         {
+
+            Example_1.Show();
             Console.WriteLine("Hello World!");
         }
     }
